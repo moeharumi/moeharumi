@@ -29,7 +29,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ---
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+---
 ###  How to Reach Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/harumi_sky)
 [![Personal Blog](https://img.shields.io/badge/Personal_Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white)]()
