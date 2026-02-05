@@ -1,6 +1,6 @@
 name: Update README cards
 
-于:
+on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
