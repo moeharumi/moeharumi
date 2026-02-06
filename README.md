@@ -60,7 +60,6 @@
 ---
 ###  Achievements
 <div align="center">
-  <img src="./profile/metrics.svg" alt="Achievements Metrics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeharumi&theme=rose-pine&hide_border=true" alt="Streak" />
   <img src="./profile/snake.svg" alt="Contribution Snake" />
 </div>
