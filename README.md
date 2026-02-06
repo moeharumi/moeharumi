@@ -72,11 +72,6 @@
   <a href="https://github.com/moeharumi/WikidotSiteProxyForVPS"><img src="./profile/pin-wikidotsiteproxyforvps.svg" alt="WikidotSiteProxyForVPS" /></a>
 </p>
 
-<div align="center">
-  Misaka-Accounting — minimal accounting app with NLP input and anime theme (NLP, budgeting, CSV import/export).<br>
-  WikidotSiteProxyForVPS — Go proxy with domain mapping and full resource forwarding (Go, HTML rewriting, Nginx).
-</div>
-
 ---
 ###  Contact
 <div align="center">
