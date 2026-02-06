@@ -1,12 +1,25 @@
-<h1 align="center">Hi there 👋, I'm RainMoe</h1>
-<h3 align="center">A Passionate Developer from China</h3>
+<h1 align="center">Hi there, I'm RainMoe</h1>
+<h3 align="center"> Developer | Frontend & Open Source</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Anime+loving+developer;Frontend+%26+Open+Source;Minimal+%26+Cute+Projects&center=true&size=18" alt="typing-banner" />
+</p>
+<p align="center">----------------------------------------</p>
 
--  I'm currently studying at **Hunan University of Science and Technology (HNUST)**
--  Expected to graduate in **2029**
--  I have knowledge of **JavaScript** and have experimented with **Vue.js** and **React**
--  Interested in **Frontend Development**
+-  From China, currently studying at **Hunan University of Science and Technology (HNUST)**
+-  Expected graduation **2029**
+-  Comfortable with **JavaScript**, exploring **Vue.js** and **React**
+-  Passionate about **Frontend Development** and open source
+-  ACG / anime enthusiast, making code cute and useful
 
----
+<p align="center">----------------------------------------</p>
+
+###  About Me
+
+-  Focused on frontend learning and practice, occasionally dabbling in backend & DevOps
+-  I love shipping to GitHub and polishing my homepage and portfolio
+-  Goal: build projects that are both practical and adorable
+
+<p align="center">----------------------------------------</p>
 
 ###  Tech Stack & Tools
 
@@ -28,14 +41,31 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
----
+<p align="center">Theme Palette: 
+<img alt="Primary Pink" src="https://img.shields.io/badge/Primary_Pink-FF69B4?style=flat-square">
+<img alt="Soft Pink" src="https://img.shields.io/badge/Soft_Pink-FFB7C5?style=flat-square">
+<img alt="Rose Pink" src="https://img.shields.io/badge/Rose_Pink-E91E63?style=flat-square">
+<img alt="Sakura Pink" src="https://img.shields.io/badge/Sakura_Pink-FADADD?style=flat-square">
+</p>
+<p align="center">----------------------------------------</p>
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
----
-###  How to Reach Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/harumi_sky)
-[![Personal Blog](https://img.shields.io/badge/Personal_Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white)]()
-[![github](https://img.shields.io/badge/github-12100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeharumi)
+<p align="center">----------------------------------------</p>
+###  Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=moeharumi&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moeharumi&theme=rose-pine&hide_border=true)
+![Contribution Snake](./profile/snake.svg)
+<p align="center">----------------------------------------</p>
+###  Featured Projects
+[![Misaka-Accounting](./profile/pin-misaka-accounting.svg)](https://github.com/moeharumi/Misaka-Accounting)
+[![WikidotSiteProxyForVPS](./profile/pin-wikidotsiteproxyforvps.svg)](https://github.com/moeharumi/WikidotSiteProxyForVPS)
+ - Misaka-Accounting — minimal accounting app with NLP input and anime theme (NLP, budgeting, CSV import/export).
+ - WikidotSiteProxyForVPS — Go proxy with domain mapping and full resource forwarding (Go, HTML rewriting, Nginx).
+<p align="center">----------------------------------------</p>
+###  Contact
+[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white&style=for-the-badge)](https://x.com/harumi_sky)
+[![GitHub](https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeharumi)
+<p align="center">Personal Blog: in progress</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=moeharumi&label=Profile%20views&color=0e75b6&style=flat" alt="moeharumi" /> 
 </p>

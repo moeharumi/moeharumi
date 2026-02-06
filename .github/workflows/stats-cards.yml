@@ -39,6 +39,29 @@ jobs:
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card (Misaka-Accounting)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Misaka-Accounting
+          path: profile/pin-misaka-accounting.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (WikidotSiteProxyForVPS)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=WikidotSiteProxyForVPS
+          path: profile/pin-wikidotsiteproxyforvps.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
