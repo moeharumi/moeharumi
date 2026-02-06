@@ -15,10 +15,9 @@
 
 ###  About Me
 <div align="center">
-
--  Focused on frontend learning and practice, occasionally dabbling in backend & DevOps
--  I love shipping to GitHub and polishing my homepage and portfolio
--  Goal: build projects that are both practical and adorable
+  Focused on frontend learning and practice, occasionally dabbling in backend & DevOps<br>
+  I love shipping to GitHub and polishing my homepage and portfolio<br>
+  Goal: build projects that are both practical and adorable
 </div>
 
 ---
@@ -51,20 +50,19 @@ Theme Palette:
 ![Sakura Pink](https://img.shields.io/badge/Sakura_Pink-FADADD?style=flat-square)
 </div>
 ---
-![Stats](./profile/stats.svg)
 <p align="center">
   <img src="./profile/stats.svg" alt="Stats" />
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+---
 ###  Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=moeharumi&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moeharumi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeharumi&theme=rose-pine&hide_border=true" alt="Streak" />
   <img src="./profile/snake.svg" alt="Contribution Snake" />
 </div>
+---
 ###  Featured Projects
-[![Misaka-Accounting](./profile/pin-misaka-accounting.svg)](https://github.com/moeharumi/Misaka-Accounting)
 <p align="center">
   <a href="https://github.com/moeharumi/Misaka-Accounting"><img src="./profile/pin-misaka-accounting.svg" alt="Misaka-Accounting" /></a>
   <a href="https://github.com/moeharumi/WikidotSiteProxyForVPS"><img src="./profile/pin-wikidotsiteproxyforvps.svg" alt="WikidotSiteProxyForVPS" /></a>
@@ -73,8 +71,8 @@ Theme Palette:
   - Misaka-Accounting — minimal accounting app with NLP input and anime theme (NLP, budgeting, CSV import/export).
   - WikidotSiteProxyForVPS — Go proxy with domain mapping and full resource forwarding (Go, HTML rewriting, Nginx).
 </div>
+---
 ###  Contact
-[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white&style=for-the-badge)](https://x.com/harumi_sky)
 <div align="center">
   <a href="https://x.com/harumi_sky"><img src="https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
   <a href="https://github.com/moeharumi"><img src="https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
