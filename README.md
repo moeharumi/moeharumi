@@ -60,7 +60,7 @@
 ---
 ###  Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeharumi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="./profile/trophies.svg" alt="Trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeharumi&theme=rose-pine&hide_border=true" alt="Streak" />
   <img src="./profile/snake.svg" alt="Contribution Snake" />
 </div>
