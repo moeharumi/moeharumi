@@ -68,7 +68,8 @@
 ###  Featured Projects
 <p align="center">
   <a href="https://github.com/moeharumi/Misaka-Accounting"><img src="./profile/pin-misaka-accounting.svg" alt="Misaka-Accounting" /></a>
-  <a href="https://github.com/moeharumi/WikidotSiteProxyForVPS"><img src="./profile/pin-wikidotsiteproxyforvps.svg" alt="WikidotSiteProxyForVPS" /></a>
+  <a href="https://github.com/moeharumi/sync-remote-website-to-local-mirror-server"><img src="./profile/pin-wikidotsiteproxyforvps.svg" alt="Sync remote website to local mirror server
+" /></a>
 </p>
 
 ---
