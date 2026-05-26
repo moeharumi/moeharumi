@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Sync remote website to local mirror server</text>
+      >sync-remote-website-to-local-mirror...</text>
     </g>
       </g>
     
@@ -100,10 +100,10 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#35299;&#20915;&#26576;&#20123;&#32593;&#32476;&#29615;&#22659;&#19979;wikidot&#35775;&#38382;&#21463;&#38480;&#30340;&#38382;&#39064;&#12290;&#20195;&#29702;&#26381;&#21153;&#36890;&#36807;&#22495;&#21517;&#26144;&#23556;&#21644;&#36164;&#28304;&#36716;&#21457;</tspan>
+      <tspan dy="1.2em" x="25">&#20026;&#20102;&#25552;&#21319;&#26576;&#20123;&#32593;&#31449;&#30340;&#35775;&#38382;&#36895;&#24230;</tspan><tspan dy="1.2em" x="25">&#21516;&#27493;&#36828;&#31243;&#32593;&#31449;&#21040;&#26412;&#22320;&#38236;&#20687;&#26381;&#21153;&#22120;</tspan><tspan dy="1.2em" x="25">&#36890;&#36807;&#22495;&#21517;&#26144;&#23556;&#21644;&#36164;&#28304;&#36716;&#21457;&#12290;</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00ADD8" />
