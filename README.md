@@ -5,7 +5,7 @@
 </p>
 
 ---
--  From China, currently studying at **Hunan University of Science and Technology (HNUST)**
+-  From TaiWan
 -  Expected graduation **2029**
 -  Comfortable with **JavaScript**, exploring **Vue.js** and **React**
 -  Passionate about **Frontend Development** and open source
