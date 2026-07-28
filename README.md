@@ -75,7 +75,6 @@
 ---
 ###  Contact
 <div align="center">
-  <a href="https://x.com/harumi_sky"><img src="https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
   <a href="https://github.com/moeharumi"><img src="https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <p>Personal Blog: in progress</p>
   <img src="https://komarev.com/ghpvc/?username=moeharumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
