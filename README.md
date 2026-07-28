@@ -53,7 +53,6 @@
 
 ---
 <p align="center">
-  <img src="./profile/stats.svg" alt="Stats" />
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
