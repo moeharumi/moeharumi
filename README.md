@@ -5,7 +5,7 @@
 </p>
 
 ---
--  From TaiWan
+-  From Taiwan
 -  Expected graduation **2029**
 -  Comfortable with **JavaScript**, exploring **Vue.js** and **React**
 -  Passionate about **Frontend Development** and open source
