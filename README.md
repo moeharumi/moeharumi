@@ -60,17 +60,8 @@
 ---
 ###  Achievements
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeharumi&theme=rose-pine&hide_border=true" alt="Streak" />
   <img src="./profile/snake.svg" alt="Contribution Snake" />
 </div>
-
----
-###  Featured Projects
-<p align="center">
-  <a href="https://github.com/moeharumi/Misaka-Accounting"><img src="./profile/pin-misaka-accounting.svg" alt="Misaka-Accounting" /></a>
-  <a href="https://github.com/moeharumi/sync-remote-website-to-local-mirror-server"><img src="./profile/pin-wikidotsiteproxyforvps.svg" alt="Sync remote website to local mirror server
-" /></a>
-</p>
 
 ---
 ###  Contact
