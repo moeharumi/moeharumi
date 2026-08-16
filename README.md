@@ -5,11 +5,19 @@
 </p>
 
 ---
--  From Taiwan
+-  From Mars
 -  Expected graduation **2029**
 -  Comfortable with **JavaScript**, exploring **Vue.js** and **React**
 -  Passionate about **Frontend Development** and open source
 -  ACG / anime enthusiast, making code cute and useful
+ <a href="https://gavinmorrow.com/">
+    <img
+      src="https://gavinmorrow.com/buttons/pride-button.png"
+      alt="Progress Pride flag"
+      width="88"
+      height="40"
+    />
+  </a>
 
 ---
 
@@ -19,7 +27,6 @@
   I love shipping to GitHub and polishing my homepage and portfolio<br>
   Goal: build projects that are both practical and adorable
 </div>
-
 ---
 
 ###  Tech Stack & Tools
@@ -69,3 +76,5 @@
   <p>Personal Blog: in progress</p>
   <img src="https://komarev.com/ghpvc/?username=moeharumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+
+ 
